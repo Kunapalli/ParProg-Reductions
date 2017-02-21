@@ -1,0 +1,49 @@
+run
+exit
+run
+exit
+run
+exit
+run
+exit
+run
+ls
+run
+exit
+run
+s
+exit
+run
+submit sharma.kunapalli@gmail.com NfDAwfOKexLcENFn
+nderlying type Int)
+ required: Nothing
+             L = x :: L
+                   ^
+<console>:17: error: type mismatch;
+ found   : Int
+ required: ?{def +(x$1: ? >: Double(0.5)): ?}
+Note that implicit conversions are not applicable because they are ambiguous:
+run
+exit
+run
+submit sharma.kunapalli@gmail.com NfDAwfOKexLcENFn
+run
+exit
+submit sharma.kunapalli@gmail.com zvsSIQlGiivzEarT
+run
+submit sharma.kunapalli@gmail.com a1tzpmH03JF10c88
+run
+submit sharma.kunapalli@gmail.com a1tzpmH03JF10c88
+run
+submit sharma.kunapalli@gmail.com At7rQxJzsVfX1xxo
+run
+submit sharma.kunapalli@gmail.com AvGltsNc5dQCNUrh
+run
+submit sharma.kunapalli@gmail.com AvGltsNc5dQCNUrh
+exi
+exit
+sbt
+run
+exit
+run
+exit
